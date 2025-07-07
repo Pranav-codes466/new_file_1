@@ -2,4 +2,5 @@
 void main(){
 	printf("name-pranav");
 	printf("age-20");
+	printf("uni-AUB");
 }
