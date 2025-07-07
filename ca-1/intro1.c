@@ -1,4 +1,5 @@
 #include <stdio.h>
 void main(){
 	printf("name-pranav");
+	printf("age-20");
 }
