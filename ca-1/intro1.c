@@ -4,4 +4,5 @@ void main(){
 	printf("age-20");
 	printf("uni-AUB");
 	printf("branch-CSE");
+	printf("sub-SCM");
 }
